@@ -1,0 +1,13 @@
+# Ignore logs and temporary files
+logs/
+tmp/
+
+# Ignore compiled and backup files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Ignore Python cache (caso uses scripts Python no futuro)
+__pycache__/
+*.pyc
